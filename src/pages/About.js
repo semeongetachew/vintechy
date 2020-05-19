@@ -5,14 +5,18 @@ export default function About() {
     <section className="section about-section">
       <h1 className="section-title">about us</h1>
       <p>
-        Lorem ipsum dolor amet pok pok blue bottle fanny pack bushwick
-        mumblecore photo booth. Unicorn coloring book letterpress small batch,
-        before they sold out pour-over four loko ethical. Gentrify letterpress
-        XOXO, kale chips occupy mumblecore pickled cred sustainable. Hot chicken
-        brooklyn vape chartreuse 3 wolf moon chicharrones ugh synth craft beer
-        sustainable. Occupy sriracha keytar paleo migas, fashion axe taxidermy
-        lumbersexual pabst swag bitters drinking vinegar fingerstache put a bird
-        on it semiotics.
+        The Vintech store is an online/ecommerce store based in Atlanta, Georgia. 
+        We serve our customers with vintage electronics and gadgets that are hard 
+        to find in common day to day stores. We don't take pride in trying to sell 
+        our customers the latest and greatest products that will only come to be outdated 
+        within a year's time. Instead, our focus to enlighten our customers with legendary 
+        products that have served as a staple within the technological history.
+
+        We offer a 30 return warranty for all of our products, but our customers rarely 
+        return them becuase of how well we have preserved our gadgets. 
+
+
+        
       </p>
     </section>
   );
